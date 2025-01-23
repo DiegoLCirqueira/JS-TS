@@ -1,0 +1,1 @@
+// NÃO USAR VAR como variável, sempre usar LET para variável e CONST para constante !!!
