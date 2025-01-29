@@ -1,0 +1,21 @@
+// let umaString = "Um \"texto\""; - ultilizar caso precise abrir com "" ou '' e repetilas no meio do texto;
+
+// console.log(umaString.charAt(6)) - vai pegar o índice desejado no meio do texto;
+
+// console.log(umaString.concat(' em', ' um', ' lindo dia.')) - console.log(+ ' em', ' um', ' lindo dia.') - console.log(`${umaString} em um lindo dia.`) - vai concatenar no texto final;
+
+// console.lopg(umaString.index0f('o', 3)); - vai mostrar onde começa uma palavra ou letra no texto, caso coloque um número após a virgula ele ira procurar de trás pra frente apartir deste número de caracteres, lembrando que o início é 0;
+
+// console.log(umaString.replace('Um', 'Outra')); - vai substituir a palvra definida por outra definida depois da virgula;
+
+// console.log(umaString.length); - vai resultar no tamanho da string;
+
+// console.log(umaString.slice(2, 6)); - vai mostrar as letras respectivas aos números, ex: "rato" vai de 0 ate 3, mas se vc colocar de 0 até 3 vai aparecer "rat", sempre colocar um número a mais no final;
+
+// console.log(umaString.slice(6)); - vai mostrar a string apartir do número colocado;
+
+// console.log(umaString.split(' ', 2)); - vai dividir a string de acordo com o que for colocado nas aspas, e depois da virgula a quantidade de vezes;
+
+// console.log(umaString.toUpperCase()); - vai deixar tudo maiusculo;
+
+// console.log(umaString.toLowerCase()); - vai deixar tudo minusculo;
