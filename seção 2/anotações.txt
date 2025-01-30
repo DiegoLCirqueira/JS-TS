@@ -4,7 +4,11 @@
 
 // console.log(umaString.concat(' em', ' um', ' lindo dia.')) - console.log(+ ' em', ' um', ' lindo dia.') - console.log(`${umaString} em um lindo dia.`) - vai concatenar no texto final;
 
-// console.lopg(umaString.index0f('o', 3)); - vai mostrar onde começa uma palavra ou letra no texto, caso coloque um número após a virgula ele ira procurar de trás pra frente apartir deste número de caracteres, lembrando que o início é 0;
+// console.log(umaString.index0f('o', 3)); - vai mostrar onde começa uma palavra ou letra no texto, caso coloque um número após a virgula ele ira procurar de trás pra frente apartir deste número de caracteres, lembrando que o início é 0;
+
+// console.log(umaString.index0f('a')); - ultilizado para encontrar o primeiro índice da letra no texto;
+
+// console.lopg(umaString.lastIndex0f('a')); - ultilizado para encontrar o último índice da letra no texto;
 
 // console.log(umaString.replace('Um', 'Outra')); - vai substituir a palvra definida por outra definida depois da virgula;
 
