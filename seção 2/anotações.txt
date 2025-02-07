@@ -57,3 +57,5 @@
 //const aleatorio = Math.random() * (10 - 5) + 5; - Vai gerar números aleatórios entre 10 e 5 quebrados;
 
 //const aleatorio = Math.round(Math.random() * (10 - 5) + 5); - Vai gerar números aleatórios entre 10 e 5 inteiros;
+
+// Dúvida em listas ir para a aula --> 029 <--
