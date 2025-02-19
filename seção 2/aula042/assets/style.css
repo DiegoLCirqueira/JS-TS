@@ -20,6 +20,13 @@ body {
   line-height: 1.5em;
 }
 
+.paragrafo {
+    display: inline-block;
+    width: 45%; /* Define a largura para os parágrafos */
+    vertical-align: top; /* Alinhamento vertical */
+    margin-right: 2%; /* Espaçamento entre os parágrafos */
+}
+
 .container {
   max-width: 640px;
   margin: 50px auto;
@@ -57,4 +64,16 @@ form button {
 
 form button:hover {
   background: var(--primary-color-darker);
+}
+
+#resultado.oculto {
+    display: none;
+}
+
+#resultado.mostrar {
+    display: block;
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
 }
