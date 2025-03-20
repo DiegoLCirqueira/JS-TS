@@ -1,0 +1,25 @@
+body{
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: top;
+    height: 100vh;
+}
+
+#container{
+    background-color: white; /* Fundo branco para o container */
+    padding: 20px; /* Espaço interno */
+    border-radius: 10px; /* Bordas arredondadas */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    text-align: center; /* Centraliza o texto */
+    width: 70vw; /* Ocupa 100% da largura disponível */
+    height: 10vh;
+}
+
+#diaSemana {
+    color: #333; /* Cor do texto */
+    margin: 0; 
+}
